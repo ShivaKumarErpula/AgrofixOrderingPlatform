@@ -121,6 +121,20 @@ GitHub: [@ShivaKumarErpula](https://github.com/ShivaKumarErpula)
 
 ---
 
-```
 
+---
+```psql
+### How to Add This to Your Project
+
+1. Create a `README.md` file in your project root folder.
+2. Copy and paste the above content into that file.
+3. Save it.
+
+### Additional Steps
+
+1. **Ensure the `.env` is not committed**: Make sure to add `.env` to your `.gitignore` file so that sensitive data doesn't get committed to GitHub.
+2. **Customize for your specific needs**: If you have any specific deployment, configuration, or setup instructions for your project, feel free to edit the readme accordingly.
+
+Let me know if you'd like me to assist further with any step or modification!
+```
 ---
