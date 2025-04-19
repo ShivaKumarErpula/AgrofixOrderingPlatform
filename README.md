@@ -39,7 +39,7 @@ Follow the steps below to set up the project on your machine:
 ```bash
 git clone https://github.com/ShivaKumarErpula/AgrofixOrderingPlatform.git
 cd AgrofixOrderingPlatform
-
+```
 
 ### 2. Install Dependencies
 
