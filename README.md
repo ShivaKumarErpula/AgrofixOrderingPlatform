@@ -1,8 +1,5 @@
 
 
----
-
-```
 # 🌽 Agrofix Ordering Platform
 
 A full-stack web application for placing and managing bulk vegetable/fruit orders. It allows buyers to browse available products, place orders, and track them. Admins can manage products and order statuses efficiently.
@@ -11,14 +8,13 @@ A full-stack web application for placing and managing bulk vegetable/fruit order
 
 ## 🚀 Features
 
-- 🥕 **Product Catalog**: Buyers can view the available vegetables/fruits and their prices.
-- 🧾 **Order Form**: Buyers can select products, specify quantities, and fill out delivery information to place bulk orders.
-- 📦 **Order Tracking**: Buyers can track the status of their orders using the Order ID.
-- 🛠 **Admin Dashboard**: Admins can view all orders, update order statuses, and manage the product catalog.
-- 🌐 **RESTful API**: Built with Next.js API routes.
-- 💅 **Tailwind CSS**: Used for responsive and modern UI design.
-- 📊 **PostgreSQL**: Database for storing product and order data.
-- 🔒 **Prisma ORM**: Simplifies database interactions and schema management.
+- 🥕 Product catalog for buyers
+- 🧾 Order form for bulk purchases
+- 📦 Order tracking using Order ID
+- 🛠 Admin dashboard for managing products and orders
+- 🌐 RESTful API with Next.js
+- 💅 Tailwind CSS for styling
+- 📊 PostgreSQL with Prisma ORM
 
 ---
 
@@ -28,22 +24,22 @@ A full-stack web application for placing and managing bulk vegetable/fruit order
 |-------------|--------------------------|
 | Frontend    | Next.js + Tailwind CSS  |
 | Backend     | API Routes (Next.js)    |
-| Database    | PostgreSQL              |
-| ORM         | Prisma ORM              |
+| Database    | PostgreSQL (Neon.tech)  |
+| ORM         | Prisma                  |
 | Deployment  | Vercel                  |
 
 ---
 
 ## 🛠 How to Run Locally
 
-Follow the steps below to set up the project on your local machine:
+Follow the steps below to set up the project on your machine:
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/ShivaKumarErpula/AgrofixOrderingPlatform.git
 cd AgrofixOrderingPlatform
-```
+
 
 ### 2. Install Dependencies
 
