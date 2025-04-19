@@ -2,7 +2,7 @@
 
 ---
 
-```markdown
+```
 # 🌽 Agrofix Ordering Platform
 
 A full-stack web application for placing and managing bulk vegetable/fruit orders. It allows buyers to browse available products, place orders, and track them. Admins can manage products and order statuses efficiently.
